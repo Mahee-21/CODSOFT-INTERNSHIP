@@ -29,7 +29,7 @@ To build a real-style calculator with:
 
 | Desktop View                                                            | Mobile View                                                           |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| ![desktop](desktop.png)                                                 | ![mobile](phone.pngr) |
+| ![desktop](desktop.png)                                                 | ![mobile](phone.png) |
 
 ---
 
