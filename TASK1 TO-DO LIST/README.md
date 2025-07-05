@@ -41,8 +41,7 @@ taskzen-app/
 
 ## 💬 Quote Example
 
-“You don’t have to be perfect to be amazing.”
-– Unknown
+> **“You don’t have to be perfect to be amazing.” – CodSoft Team**
 
 ---
 
