@@ -26,22 +26,11 @@ A basic calculator that performs:
 - Addition, Subtraction, Multiplication, Division
 - Input validation and clean CLI interface
 
-### 🔹 Task 3: Password Generator 🔐
-A secure password generator with:
-- User-defined length
-- Combination of upper/lowercase letters, digits, and symbols
-- Random and strong password generation using Python's `random` module
-
-### 🔹 Task 4: Rock-Paper-Scissors Game 🎮
+### 🔹 Task 3: Rock-Paper-Scissors Game 🎮
 A fun terminal game with:
 - User vs Computer logic
 - Game result evaluation (win/lose/draw)
 - Option to replay and score tracking
-
-### 🔹 Task 5: Contact Book 📇
-A CLI-based contact management system that supports:
-- Adding, searching, viewing, updating, and deleting contacts
-- Stores name, phone number, email, and address
 
 ---
 
